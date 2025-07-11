@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Khalil Khalid and I'm a system analysis and development student, from Brazil</p>
+<p align="left">My name is Khalil Khalid, and I'm a system analysis and development student from Brazil</p>
 
 ###
 
