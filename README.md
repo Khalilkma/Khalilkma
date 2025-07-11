@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning C# <br>🎯 <br></p>
-
-###
-
-<h2 align="left">I code with</h2>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently improving my skills in Software Engineering and Back-End Development<br><h2 align="left">I code with</h2>
 
 ###
 <p align="left">
